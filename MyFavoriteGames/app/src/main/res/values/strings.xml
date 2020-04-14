@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Favorite Games</string>
+    <string name="logo">Box Art</string>
+    <string name="title">Game Title</string>
+    <string name="description">Description</string>
+    <string name="Return">Back</string>
+</resources>

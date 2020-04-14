@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="it_languages">
+        <item>HTML5</item>
+        <item>CSS3</item>
+        <item>JavaScript</item>
+        <item>jQuery</item>
+        <item>Bootstrap</item>
+        <item>C#</item>
+        <item>SQL</item>
+        <item>ASP.NET</item>
+        <item>Java</item>
+        <item>Android</item>
+    </string-array>
+</resources>

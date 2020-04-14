@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_titles">
+        <item>Kingdom Hearts I</item>
+        <item>Kingdom Hearts II</item>
+        <item>Animal Crossing</item>
+        <item>Super Mario Sunshine</item>
+        <item>Final Fantasy 7</item>
+        <item>Horizon Zero Dawn</item>
+        <item>Final Fantasy 15</item>
+        <item>Overwatch</item>
+        <item>Destiny</item>
+        <item>Super Smash Brothers Melee</item>
+    </string-array>
+</resources>

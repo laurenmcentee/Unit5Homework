@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_descriptions">
+        <item>Kingdom Hearts is a series of action role-playing games developed and published by Square Enix in collaboration with Disney. </item>
+        <item>Kingdom Hearts II is a sequel 2005 action role-playing game developed and published by Square Enix for the PlayStation 2 video game console. </item>
+        <item>Animal Crossing is a life simulation video game developed by Nintendo EAD and published by Nintendo.</item>
+        <item>Super Mario Sunshine is a 2002 3D platform game developed and published by Nintendo for the GameCube</item>
+        <item>Final Fantasy VII is a 1997 role-playing video game developed by Square for the PlayStation console. </item>
+        <item>Horizon Zero Dawn is a 2017 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment.</item>
+        <item>Final Fantasy XV is a 2016 action role-playing game developed and published by Square Enix as part of the Final Fantasy series.</item>
+        <item>Overwatch is a 2015 team-based multiplayer first-person shooter developed and published by Blizzard Entertainment.</item>
+        <item>Destiny is an online-only multiplayer first-person shooter video game developed by Bungie and previously published by Activision</item>
+        <item>Super Smash Bros. Melee is the second crossover fighting video game developed by HAL Laboratory and published by Nintendo for the GameCube in 2001. </item>
+    </string-array>
+</resources>
